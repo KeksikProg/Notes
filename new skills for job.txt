@@ -1,0 +1,28 @@
+1. Web-servers (Nginx, gunicorn, apache)
+2. Data base (PostgreSQL, redis(for celery))
+3. Frameworks (Django, Django Rest Framework)
+4. MVC (Model - View - Controller)
+5. Tests (Nose, unit-tests)
+6. Additional tech. (Celery)
+
+1. Web-servers
+	nginx -
+
+2. Date Base
+	PostgreSQL +
+
+3. Frameworks
+	Django +
+
+4. MVC +
+
+5. Tests ---
+
+6. Additional tech
+	Celery - 
+
+7. Standart Python Modules -
+
+8. Additional Python Modules 
+	Requests + (for get html from web page)
+	beautiful soup 4 + (for parsing web page)
