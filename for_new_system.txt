@@ -1,0 +1,6 @@
+Apt-get for new system 
+sudo apt-get update && sudo apt-get upgrade
+
+sudo apt-get install -y vim git tmux python3-pip postgresql nginx redis-server supervisor
+
+

@@ -88,3 +88,8 @@ pip install djoser - для регистрации, авторизации, ау
 pip install djangorestframework_simplejwt - для простого создания JWT токенов
 
 pip install django-filter - (подходит и для обычного джанго, но можно использовать и drf) - просто фильтры
+
+
+for server nginx and all for servers
+pip install gunicorn - помогает связать сервер(nginx) с приложением джанго, тк стандартный сервер джанго не для продакшена
+
